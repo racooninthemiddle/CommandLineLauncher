@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>CommandLineLauncherForm.qml</file>
+        <file>CommandLineLauncherFormDesign.qml</file>
+        <file>CommandLineLauncherFormLogic.qml</file>
+        <file>ContextMenu.qml</file>
+        <file>ContextMenuMouseArea.qml</file>
+        <file>EditContextMenu.qml</file>
+        <file>InputTextField.qml</file>
+        <file>MenuWithoutInvisibleItems.qml</file>
+        <file>OutputTextArea.qml</file>
+        <file>translation_ru.qm</file>
+        <file>qtquickcontrols2.conf</file>
+    </qresource>
+</RCC>
